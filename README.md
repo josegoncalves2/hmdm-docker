@@ -124,9 +124,9 @@ To stop (but not remove) the service, use the command:
 
     docker-compose stop
 
-## Using this Docker container with the Premium version
+## Using this Docker container with the New version
 
-To run Premium version, you need to change the HMDM_VARIANT, DOWNLOAD_CREDENTIALS
+To run New version, you need to change the HMDM_VARIANT, DOWNLOAD_CREDENTIALS
 and HMDM_URL variables in the .env file. To get the trial URLs, credentials and
 license keys, please fill the form at
 
